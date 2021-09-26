@@ -3,6 +3,18 @@
 
 
 
+## 如何使用
+
+```bash
+
+sodu npm i -g console-map
+
+console-map girl 
+
+```
+
+
+
 当前我支持以下命令：
 ******************************
      version：查看版本号
